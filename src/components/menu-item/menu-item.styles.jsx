@@ -8,7 +8,7 @@ export const MenuItemContainer = styled.div`
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	border: 1px solid black;
+	border: 5px solid pink;
 	margin: 0 7.5px 15px;
 	overflow: hidden;
 
@@ -49,7 +49,7 @@ export const ContentContainer = styled.div`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  border: 1px solid black;
+  border: 3px solid pink;
   background-color: white;
   opacity: 0.7;
   position: absolute;
